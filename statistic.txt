@@ -13,7 +13,7 @@ V 10
 		B09 has 5883
 		B10 has 4444
 	C05
-		B11 has 11941
+		B11 has 11940
 	C06
 		B13 has 9548
 		B14 has 2852
@@ -59,7 +59,7 @@ V 10
 	C18
 		B47 has 6304
 		B48 has 6571
-Sum length of Sem_1 : 189951
+Sum length of Sem_1 : 189950
 	C19
 		B49 has 4681
 		B50 has 9266
@@ -77,6 +77,7 @@ Sum length of Sem_1 : 189951
 		B60 has 8354
 	C24
 		B62 has 10976
+		B63 has 398
 	C25
 		B64 has 5603
 		B65 has 3053
@@ -109,8 +110,8 @@ Sum length of Sem_1 : 189951
 	C35
 		B90 has 923
 		B91 has 10780
-Sum length of Sem_2 : 178819
-Sum length of Textbook: 368770
+Sum length of Sem_2 : 179217
+Sum length of Textbook: 369167
 
 V 11
 	C01
@@ -224,7 +225,7 @@ Sum length of Textbook: 405090
 
 V 12
 	C01
-		B01 has 35695
+		B01 has 35696
 		B02 has 1848
 	C02
 		B03 has 13113
@@ -275,7 +276,7 @@ V 12
 		B44 has 12931
 	C18
 		B46 has 3006
-Sum length of Sem_1 : 250364
+Sum length of Sem_1 : 250365
 	C19
 		B48 has 24692
 	C20
@@ -320,7 +321,7 @@ Sum length of Sem_1 : 250364
 	C35
 		B82 has 15756
 Sum length of Sem_2 : 313905
-Sum length of Textbook: 564269
+Sum length of Textbook: 564270
 
 S 10
 	C01
@@ -487,7 +488,7 @@ D 10
 		B26 has 4962
 	C07
 		B27 has 4946
-		B28 has 5287
+		B28 has 5288
 		B29 has 4166
 	C08
 		B31 has 3403
@@ -502,7 +503,7 @@ D 10
 	C10
 		B41 has 5022
 		B42 has 5529
-Sum length of Textbook: 143856
+Sum length of Textbook: 143857
 
 D 11
 	C01
